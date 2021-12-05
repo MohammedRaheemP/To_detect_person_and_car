@@ -17,6 +17,12 @@ Model : YOLO_v5, pretrained weight: yolov5x -extra large ,framework : pytorch, t
  
  Pretrained Model : Total layers: 567 , Total parameters: 8.8 crores, total gradients : 8.6 crores, Gflops: 204.2
  
+ Optimizer : SGD with 123 weight (no decay)
+ 
+ 
+ 
+ 
+ 
  
  
  
