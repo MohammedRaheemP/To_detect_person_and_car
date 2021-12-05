@@ -5,3 +5,8 @@ total images or frames : 2239 (including both person and car)
 
 total instances from all images :16772
 
+training description:
+
+Model : YOLO_v5
+pretrained weight: yolov5x -
+
