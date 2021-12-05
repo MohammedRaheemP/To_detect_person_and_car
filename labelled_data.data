@@ -1,0 +1,5 @@
+classes = 2
+train = /content/drive/MyDrive/EagleView/assignment/Custom_data_2C/train.txt
+valid = /content/drive/MyDrive/EagleView/assignment/Custom_data_2C/test.txt
+names = /content/drive/MyDrive/EagleView/assignment/Custom_data_2C/classes.names
+backup = backup
