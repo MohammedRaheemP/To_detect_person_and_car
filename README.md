@@ -5,8 +5,8 @@ total images or frames : 2239 (including both person and car)
 
 
 total instances from all images :16772
-person ~ 10K
-car ~ 6K
+
+person ~ 10K, car ~ 6K
 
 training description:
 
