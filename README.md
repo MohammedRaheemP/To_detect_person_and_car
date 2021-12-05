@@ -7,6 +7,5 @@ total instances from all images :16772
 
 training description:
 
-Model : YOLO_v5
-pretrained weight: yolov5x -
+Model : YOLO_v5, pretrained weight: yolov5x -extra large , 
 
